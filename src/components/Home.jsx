@@ -447,11 +447,11 @@ export const Home = () => {
                <div className="w-[619px] h-[1px] bg-[#CFD4E4] "></div>
             </div>
             <div className="flex flex-col gap-[30px]">
-              <CardFive buttonSize='w-[80px] ' image={<img className="w-full h-full" src='images/four.webp' alt='img' />} time='July 02, 2021' title="Hedonism and Tailoring: The Women’s Spring 2021 Collections Had It All" bg='bg-[#E12127]' buttonText='Fashion' />
-              <CardFive buttonSize='w-[80px] ' image={<img className="w-full h-full" src='images/four.webp' alt='img' />} time='July 02, 2021' title="Lifestyle brings big changes inpeople lives. Are you ready?" bg='bg-[#FF005C]' buttonText='Lifestyle' />
-              <CardFive buttonSize='w-[70px] ' image={<img className="w-full h-full" src='images/four.webp' alt='img' />} time='July 02, 2021' title="City of New York on a trip to Arctic Nunavut" bg='bg-[#5200FF]' buttonText='Travel' />
-              <CardFive buttonSize='w-[100px] ' image={<img className="w-full h-full" src='images/four.webp' alt='img' />} time='July 02, 2021' title="Apple partnership with Microsoft helps them both take on" bg='bg-[#10CFFA]' buttonText='Technology' />
-              <CardFive buttonSize='w-[70px] ' image={<img className="w-full h-full" src='images/four.webp' alt='img' />} time='July 02, 2021' title="Nancy multi Chinese business woman trying" bg='bg-[#07B404]' buttonText='Sports' />
+              <CardFive buttonSize='w-[80px]' image={<img className="w-full h-full" src='images/four.webp' alt='img' />} time='July 02, 2021' title="Hedonism and Tailoring: The Women’s Spring 2021 Collections Had It All" bg='bg-[#E12127]' buttonText='Fashion' />
+              <CardFive buttonSize='w-[80px]' image={<img className="w-full h-full" src='images/four.webp' alt='img' />} time='July 02, 2021' title="Lifestyle brings big changes inpeople lives. Are you ready?" bg='bg-[#FF005C]' buttonText='Lifestyle' />
+              <CardFive buttonSize='w-[70px]' image={<img className="w-full h-full" src='images/four.webp' alt='img' />} time='July 02, 2021' title="City of New York on a trip to Arctic Nunavut" bg='bg-[#5200FF]' buttonText='Travel' />
+              <CardFive buttonSize='w-[100px]' image={<img className="w-full h-full" src='images/four.webp' alt='img' />} time='July 02, 2021' title="Apple partnership with Microsoft helps them both take on" bg='bg-[#10CFFA]' buttonText='Technology' />
+              <CardFive buttonSize='w-[70px]' image={<img className="w-full h-full" src='images/four.webp' alt='img' />} time='July 02, 2021' title="Nancy multi Chinese business woman trying" bg='bg-[#07B404]' buttonText='Sports' />
             </div>
             <div className="mt-[70px] relative ">
               <div className="w-[770px] h-[1px] bg-[#CFD4E4] "></div>
