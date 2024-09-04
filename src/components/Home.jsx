@@ -13,7 +13,6 @@ import { CardTwo } from './CardTwo';
 import { AdButton } from './AdButton';
 import { BuyNow } from './BuyNow';
 import { VideoCard } from './VideoCard';
-import { CommonText } from './commonText';
 import { Option } from './Option';
 import { AiOutlineLike ,AiFillDislike } from "react-icons/ai";
 import { IoIosShareAlt } from "react-icons/io";
@@ -28,7 +27,7 @@ import { CardSix } from './CardSix';
 import { IoMdPaperPlane } from "react-icons/io";
 import { BsYoutube } from "react-icons/bs";
 import { Link } from 'react-router-dom';
-
+import { CommonText } from './CommonText';
 export const Home = () => {
   return (
     <>
